@@ -86,6 +86,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6D29160F22330E98002B67AE /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				6D4207EB223305A30005329A /* Part3.storyboard */,
+				6D4207E82233046B0005329A /* Part2.storyboard */,
+				6D4207E32232E4470005329A /* Part1.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
 		6D4207A7222F513D0005329A = {
 			isa = PBXGroup;
 			children = (
@@ -109,12 +119,10 @@
 		6D4207B2222F513D0005329A /* MultiTabView */ = {
 			isa = PBXGroup;
 			children = (
-				6D4207EB223305A30005329A /* Part3.storyboard */,
+				6D29160F22330E98002B67AE /* Storyboards */,
 				6D4207E62232E46A0005329A /* ColorAdminViewController.swift */,
 				6D4207ED223305C90005329A /* ColorAdmin2ViewController.swift */,
 				6D4207EF223305EA0005329A /* ColorAdmin3ViewController.swift */,
-				6D4207E82233046B0005329A /* Part2.storyboard */,
-				6D4207E32232E4470005329A /* Part1.storyboard */,
 				6D4207B3222F513D0005329A /* AppDelegate.swift */,
 				6D4207B5222F513D0005329A /* ViewController.swift */,
 				6D4207B7222F513D0005329A /* Main.storyboard */,
